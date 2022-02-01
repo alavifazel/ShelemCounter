@@ -1,0 +1,43 @@
+
+.error-message {
+  color: red;
+}
+
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#panel {
+  margin-top: 55px;
+  margin-bottom: 30px;
+  text-align: center;
+  display: inline-block;
+  color: white;
+  flex-flow: row wrap;
+  background-color: #c93a4b;
+  border:   3px;
+  border-radius: 10px;
+  border-style: dashed;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#panel * {
+  padding: 8px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#history {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#submit-button {
+  height: 36px;
+  width: 100px;
+}
