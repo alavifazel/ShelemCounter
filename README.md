@@ -1,3 +1,3 @@
 ## Shelem Counter 
 
-![Screenshot](screenshot.png =250x)
+![Screenshot](screenshot.png | width=250)
