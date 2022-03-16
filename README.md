@@ -1,3 +1,1 @@
-## Shelem Counter 
-
-![Screenshot](screenshot.png)
+## Shelem Counter
